@@ -1,24 +1,21 @@
 
 
+
 import CharacterList from "./component/CharacterList"
+import './App.css'
+
 const App = () => {
-  // use to track the staes of the data
-
-
-//get the application data to get the application
-
+  
   return (
     <>
-    <h1 className="app-title"> ROcky AND SANCHEZ</h1>
-    <CharacterList/>
-     
+    <h1 className="app-title"> Rick And Morty</h1>
+     <CharacterList />
     </>
   )
 }
 
 export default App
-
-//promise
-//hooks
-//use Effects
-//useSate
+/// promise 
+// hooks 
+// useEffect 
+// useState

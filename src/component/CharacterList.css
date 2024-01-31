@@ -1,6 +1,9 @@
-.character-list{
+.character-list {
     width: 85vw;
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    grip-gap:20px;
-}
+    grid-gap: 20px;
+    justify-content: center;
+    margin-left: 100px;
+  
+  }

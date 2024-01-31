@@ -1,10 +1,13 @@
-.charater-container{
+.character-container {
     display: flex;
     flex-direction: column;
-    border: 1px solid gray;
-    padding: 25px;
-}
-.img{
-    border-radius: 40;
-
-}
+    border:  1px solid gray;
+   padding: 25px;
+   justify-content: center;
+  
+  
+  }
+  
+  .img {
+    border-radius: 50%;
+  }

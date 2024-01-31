@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@200;300;400&family=Roboto+Condensed:wght@300&family=Roboto+Mono:wght@100;200;300;400;500;600;700&family=Space+Mono:ital@0;1&display=swap');
+.app-title {
+  color: gold;
+  font-size: 80px;
+  margin-top: 75px;
+  margin-bottom: 50px;
+  font-family: 'Space Mono', manospace;
+}
